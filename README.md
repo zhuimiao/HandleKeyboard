@@ -7,6 +7,7 @@
 ## 效果
 ![Jan-08-2018 14-59-04](http://omup0qp0e.bkt.clouddn.com/Jan-08-2018 14-59-04.gif)
 
+图片备用连接：http://omup0qp0e.bkt.clouddn.com/Jan-08-2018 14-59-04.gif
 
 
 这里有三个输入框: 手机号输入框，密码输入框，验证码输入框，
